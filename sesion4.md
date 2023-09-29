@@ -37,6 +37,7 @@ Utilizar getter y setter para acceder y modificar los valores de los atributos d
 
 ## CLASE PRODUCTO
 
+```
 public class Producto {
     public String Nombre;
     private double Precio;
@@ -95,9 +96,11 @@ public class Producto {
     
     
 }
+```
 
 ## CLASE MAIN
 
+```
 public class Actividad4 {
 
     public static void main(String[] args) {
@@ -113,7 +116,7 @@ Producto P2 = new Producto("hamburguesa", 30000, 1, "pigasus", "comida");
                 
     }
 }
-
+```
 
 
 
