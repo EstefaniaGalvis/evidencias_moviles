@@ -21,26 +21,26 @@
 
     a. String
     b. Integer
-    **~~c. boolean~~**
+    ~~c. boolean~~
     d. Object
 
 **¿Qué estructura de control se utiliza para repetir un bloque de código mientras se cumple una condición?**
 
     a. if-else
     b. switch
-    **~~c. do-while~~**
+    ***c. do-while***
     d. for
 
 **En Java, ¿cómo se declara una variable que no puede cambiar su valor después de la inicialización?**
 
-    **~~a. final~~**
+    ~~a. final~~
     b. static
     c. mutable
     d. const
 
 **¿Qué palabra clave se utiliza para crear una nueva instancia de una clase en Java?**
 
-    **~~a. new~~**
+    ~~a. new~~
     b. create
     c. instance
     d. init
